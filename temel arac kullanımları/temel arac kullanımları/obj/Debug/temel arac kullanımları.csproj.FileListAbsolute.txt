@@ -1,0 +1,11 @@
+C:\Users\srdl_\source\repos\temel arac kullanımları\temel arac kullanımları\bin\Debug\temel arac kullanımları.exe.config
+C:\Users\srdl_\source\repos\temel arac kullanımları\temel arac kullanımları\bin\Debug\temel arac kullanımları.exe
+C:\Users\srdl_\source\repos\temel arac kullanımları\temel arac kullanımları\bin\Debug\temel arac kullanımları.pdb
+C:\Users\srdl_\source\repos\temel arac kullanımları\temel arac kullanımları\obj\Debug\temel arac kullanımları.csproj.AssemblyReference.cache
+C:\Users\srdl_\source\repos\temel arac kullanımları\temel arac kullanımları\obj\Debug\temel_arac_kullanımları.Form1.resources
+C:\Users\srdl_\source\repos\temel arac kullanımları\temel arac kullanımları\obj\Debug\temel_arac_kullanımları.Properties.Resources.resources
+C:\Users\srdl_\source\repos\temel arac kullanımları\temel arac kullanımları\obj\Debug\temel arac kullanımları.csproj.GenerateResource.cache
+C:\Users\srdl_\source\repos\temel arac kullanımları\temel arac kullanımları\obj\Debug\temel arac kullanımları.csproj.CoreCompileInputs.cache
+C:\Users\srdl_\source\repos\temel arac kullanımları\temel arac kullanımları\obj\Debug\temel arac kullanımları.exe
+C:\Users\srdl_\source\repos\temel arac kullanımları\temel arac kullanımları\obj\Debug\temel arac kullanımları.pdb
+C:\Users\srdl_\source\repos\temel arac kullanımları\temel arac kullanımları\obj\Debug\temel_arac_kullanımları.Form2.resources
